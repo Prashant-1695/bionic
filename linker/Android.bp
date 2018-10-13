@@ -101,6 +101,7 @@ cc_defaults {
         "-Wextra",
         "-Wunused",
         "-Werror",
+        "-O3",
     ],
 
     // TODO: split out the asflags.
